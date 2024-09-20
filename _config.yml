@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianbang Ding (丁建邦)"
-description              : "Research scientist in Huawei, Celia Dept. Focusing on speech, machine translation and LLM."
+description              : "Research scientist in Huawei, Celia Dept. Focusing on speech, machine translation and large language model."
 repository               : "karrynest/karrynest.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification :
 
 # Site Author
 author:
-  name             : "Jianbang Ding<br>(丁建邦)"
+  name             : "Jianbang Ding<br>   (丁建邦)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Huawei"
   location         : "Beijing"
