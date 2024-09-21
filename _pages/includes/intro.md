@@ -1,4 +1,4 @@
-I work at Huawei Technologies <img src='./images/huawei.jpg' style='width: 6em; height: 3em;'> as a research scientist now in Beijing. 
+I work at Huawei Technologies <img src='./images/huawei.jpg' style='width: 6em;'> as a research scientist now in Beijing. 
 
 I am now working on language identification, machine translation and LLM Agent research. If you are seeking any form of **employment opportunity**, please feel free to email me at [dingjianbang1@huawei.com](mailto:dingjianbang1@huawei.com). We are also **hiring interns**!
 
