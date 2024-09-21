@@ -1,4 +1,4 @@
-I work at Huawei Technologies <img src='./images/华为logo.jpg' style='width: 6em;'> as a research scientist now in Beijing. 
+I work at Huawei Technologies <img src='./images/huawei.jpg' style='width: 6em;'> as a research scientist now in Beijing. 
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
