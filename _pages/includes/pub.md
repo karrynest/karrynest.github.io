@@ -24,9 +24,9 @@ Just **pip install adamod** to try it! Up to now, it has multiple several varian
 \\
 Conducting more empirical studies on AdaMod. \\
 \\
-**Some Comments** \\
-"*In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer.*" ——Less Wright \\
-"*I’ve had great success with this wrapped in lookahead. I’m not sure it’s fast necessarily but it converges very well. lookahead(adamod(beta3=.9995), 8, 0.75)*" ——Evan Walters
+**Some Comments**: \\
+  - "*In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer.*" ——[Less Wright](https://lessw.medium.com/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd) \\
+  - "*I’ve had great success with this wrapped in lookahead.*" ——[Evan Walters](https://medium.com/@EvanLWalters)
 </div>
 </div>
 
