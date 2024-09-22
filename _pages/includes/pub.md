@@ -20,11 +20,13 @@ Just **pip install adamod** to try it! Up to now, it has multiple several varian
 
 [An Adaptive Learning Method for Solving the Extreme Learning Rate Problem of Transformer](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_29) \\
 **Jianbang Ding**, Xuancheng Ren, Ruixuan Luo \\
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_29) [[Code]](https://github.com/lancopku/AdaMod) [[Video]](https://www.youtube.com/watch?v=vx8thj3XZfw) \\
 \\
-By conducting more experiments on AdaMod, we empirically demonstrate our method can improve learning stability and bring significant improvements over Adam across different applications. \\
+Conducting more empirical studies on AdaMod. \\
 \\
+**Some Comments** \\
 "*In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer.*" ——Less Wright \\
-"*Our recently proposed DNN optimizer AdaMod...*" ——Xu Sun
+"*I’ve had great success with this wrapped in lookahead. I’m not sure it’s fast necessarily but it converges very well. lookahead(adamod(beta3=.9995), 8, 0.75)*" ——Evan Walters
 </div>
 </div>
 
