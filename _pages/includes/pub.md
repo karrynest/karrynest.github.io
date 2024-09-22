@@ -31,7 +31,7 @@ Conducting more empirical studies on AdaMod. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2023</div><img src='images/ccl.JPG' alt="sym" width="100%" height="100px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2023</div><img src='images/ccl.JPG' alt="sym" width="100%" height="50px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf) \\
@@ -49,8 +49,8 @@ Empirical results demonstrate that AddderBERT achieves highly competitive perfor
 
 [Disfluency Detection for Real-World Scenarios](https://ieeexplore.ieee.org/document/10650005) \\
 **Jianbang Ding**, Suiyun Zhang, Dandan Tu \\
-[[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]() \\
-
+[[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]()
+\\
 **Oral Paper** \\
 Experimental results show that our approach significantly outperforms previous baselines and achieves state-of-the-art performance (94.3 F-score) on English Switchboard corpus.
 </div>
