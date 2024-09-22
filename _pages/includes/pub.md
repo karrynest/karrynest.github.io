@@ -31,15 +31,15 @@ Conducting more empirical studies on AdaMod. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ccl.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf) \\ 
+**Jianbang Ding**, Suiyun Zhang, Yunfei Lu \\
+[[Paper]](https://aclanthology.org/2023.ccl-1.76.pdf) [[Poster]](https://github.com/karrynest/karrynest.github.io/blob/main/images/poster.jpg) \\
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+**CCL Best Poster Award** \\
+Empirical results demonstrate that AddderBERT achieves highly competitive performance against that of BERT-base on the GLUE benchmark while obtaining a 4.9x reduction in energy consumption.
 </div>
 </div>
 
