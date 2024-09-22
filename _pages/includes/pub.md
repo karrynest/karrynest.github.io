@@ -23,8 +23,8 @@ Just **pip install adamod** to try it! Up to now, it has multiple several varian
 \\
 By conducting more experiments on AdaMod, we empirically demonstrate our method can improve learning stability and bring significant improvements over Adam across different applications. \\
 \\
-"In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer."--Less Wright \\
-"I’ve had great success with this wrapped in lookahead. I’m not sure it’s fast necessarily but it converges very well."--Evan Walters \\
+"*In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer.*" ——Less Wright \\
+"*Our recently proposed DNN optimizer AdaMod...*" ——Xu Sun
 </div>
 </div>
 
