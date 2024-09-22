@@ -10,7 +10,7 @@
 \\
 We propose AdaMod, an improvement over the Adam optimizer by adding in a long-term memory aspect. \\
 \\
-Just **pip install adamod** to try it! Up to now, it also has several variants and implementations, supporting both [Pytorch](https://github.com/lessw2020/Best-Deep-Learning-Optimizers), [Tensorflow](https://github.com/evanatyourservice/AdaMod-tf), [Kears](https://github.com/superkido511/AdaMod-Keras).
+Just **pip install adamod** to try it! Up to now, it also has several variants and implementations, supporting both [Pytorch](https://github.com/lessw2020/Best-Deep-Learning-Optimizers), [Tensorflow](https://github.com/evanatyourservice/AdaMod-tf), [Keras](https://github.com/superkido511/AdaMod-Keras).
 </div>
 </div>
 
