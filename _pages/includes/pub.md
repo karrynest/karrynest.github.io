@@ -44,7 +44,7 @@ Empirical results demonstrate that AddderBERT achieves highly competitive perfor
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/ijcnn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/ijcnn.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disfluency Detection for Real-World Scenarios](https://ieeexplore.ieee.org/document/10650005) \\
