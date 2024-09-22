@@ -49,7 +49,7 @@ Empirical results demonstrate that AddderBERT achieves highly competitive perfor
 
 [Disfluency Detection for Real-World Scenarios](https://ieeexplore.ieee.org/document/10650005) \\
 **Jianbang Ding**, Suiyun Zhang, Dandan Tu \\
-[[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]()\\
+[[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]() \\
 
 **Oral Paper** \\
 Experimental results show that our approach significantly outperforms previous baselines and achieves state-of-the-art performance (94.3 F-score) on English Switchboard corpus.
