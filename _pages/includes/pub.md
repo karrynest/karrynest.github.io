@@ -35,25 +35,24 @@ Conducting more empirical studies on AdaMod. \\
 <div class='paper-box-text' markdown="1">
 
 [Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf) \\
-**Jianbang Ding**, Suiyun Zhang, Yunfei Lu \\
+**Jianbang Ding**, Suiyun Zhang \\
 [[Paper]](https://aclanthology.org/2023.ccl-1.76.pdf) [[Poster]](https://github.com/karrynest/karrynest.github.io/blob/main/images/poster.jpg) \\
 \\
-**CCL Best Poster Award** \\
+🎉**CCL Best Poster Award** \\
 Empirical results demonstrate that AddderBERT achieves highly competitive performance against that of BERT-base on the GLUE benchmark while obtaining a **4.9x** reduction in energy consumption.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/ijcnn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[Disfluency Detection for Real-World Scenarios](https://ieeexplore.ieee.org/document/10650005) \\
+**Jianbang Ding**, Suiyun Zhang, Dandan Tu \\
+[[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]()\\
 
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
+**Oral Paper**
+Experimental results show that our approach significantly outperforms previous baselines and achieves state-of-the-art performance (94.3 F-score) on English Switchboard corpus.
 </div>
 </div>
 
