@@ -31,7 +31,7 @@ Conducting more empirical studies on AdaMod. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/ccl.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2023</div><img src='images/ccl.JPG' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf) \\ 
