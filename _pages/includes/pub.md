@@ -15,14 +15,16 @@ Just **pip install adamod** to try it! Up to now, it has multiple several varian
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2023</div><img src='images/nlpcc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+[An Adaptive Learning Method for Solving the Extreme Learning Rate Problem of Transformer](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_29) \\
+**Jianbang Ding**, Xuancheng Ren, Ruixuan Luo \\
+\\
+By conducting more experiments on AdaMod, we empirically demonstrate our method can improve learning stability and bring significant improvements over Adam across different applications. \\
+\\
+"In testing AdaMod on some datasets along with other optimizers, I find that AdaMod is consistently a top 5 optimizer."--Less Wright \\
+"I’ve had great success with this wrapped in lookahead. I’m not sure it’s fast necessarily but it converges very well."--Evan Walters \\
 </div>
 </div>
 
