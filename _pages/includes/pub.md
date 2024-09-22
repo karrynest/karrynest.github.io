@@ -5,8 +5,8 @@
 <div class='paper-box-text' markdown="1">
 
 [An Adaptive and Momental Bound Method for Stochastic Learning](https://arxiv.org/abs/1910.12249) \\
-**Jianbang Ding**, Xuancheng Ren, Ruixuan Luo, Xu Sun
-[Paper](https://arxiv.org/abs/1910.12249) [Code](https://github.com/lancopku/AdaMod) [Video](https://www.youtube.com/watch?v=vx8thj3XZfw)
+**Jianbang Ding**, Xuancheng Ren, Ruixuan Luo, Xu Sun \\
+[[Paper]](https://arxiv.org/abs/1910.12249) [[Code]](https://github.com/lancopku/AdaMod) [[Video]](https://www.youtube.com/watch?v=vx8thj3XZfw)
 </div>
 </div>
 
