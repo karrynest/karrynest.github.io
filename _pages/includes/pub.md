@@ -52,6 +52,6 @@ AddderBERT achieves highly competitive performance against that of BERT-base on 
 [[Paper]](https://ieeexplore.ieee.org/document/10650005) [[Slide]]() [[Video]]() \\
 \\
 **Oral Paper** \\
-Our approach significantly outperforms previous baselines and achieves state-of-the-art performance (94.3 F-score) on English Switchboard corpus.
+Our approach significantly outperforms previous baselines and achieves state-of-the-art performance (**94.3 F-score**) on English Switchboard corpus.
 </div>
 </div>
