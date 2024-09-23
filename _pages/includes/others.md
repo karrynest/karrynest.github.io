@@ -1,7 +1,7 @@
 
 # 📖 Educations
-- *2018.09 - 2021.07*, Computer Science, Peking University, Beijing.
-- *2014.09 - 2018.07*, Qian Xuesen Class, Xidian University, Xi'an.
+- *2018.09 - 2021.07*, Master, Peking University, Beijing.
+- *2014.09 - 2018.07*, Bachelor, Xidian University, Xi'an.
 - *2010.09 - 2013.07*, Northeast Yucai School, Shenyang
 
 # 💻 Internships
