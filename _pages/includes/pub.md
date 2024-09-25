@@ -35,7 +35,7 @@ Conducting more empirical studies on AdaMod. \\
 <div class='paper-box-text' markdown="1">
 
 [Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf) \\
-**Jianbang Ding**, Suiyun Zhang \\
+**Jianbang Ding**, Suiyun Zhang, Linlin Li \\
 [[Paper]](https://aclanthology.org/2023.ccl-1.76.pdf) [[Poster]](https://github.com/karrynest/karrynest.github.io/blob/main/images/poster.jpg) \\
 \\
 🎉**CCL Best Poster Award** \\
